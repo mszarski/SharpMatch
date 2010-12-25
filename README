@@ -1,3 +1,5 @@
+This is a simple library trying to bring the expressiveness of the Pattern Matching construct in F# and Haskell to C#.
+It uses a fluent interface and takes advantage of lambda expressions to simplify the syntax.
 The library requires .NET 3.5+ and C# 3.0 to compile.
 Written using Mono 2.8 on Mac OS X.
 Unit Tests are done using NUnit.
