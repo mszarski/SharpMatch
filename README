@@ -1,0 +1,3 @@
+The library requires .NET 3.5+ and C# 3.0 to compile.
+Written using Mono 2.8 on Mac OS X.
+Unit Tests are done using NUnit.
